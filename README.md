@@ -11,14 +11,7 @@ A simple, elegant, and multilingual chatbot interface built using *HTML, **CSS, 
 - 🌗 Light/Dark mode toggle
 - 🖥 Responsive layout (mobile + desktop)
 - 🧩 Easy to extend for backend integration (like Dialogflow, Rasa, GPT API, etc.)
-
----
-
-## 🚀 Demo
-
-[Add live link here if hosted]  
-Example: https://yourusername.github.io/dlc-chatbot/
-
+- 
 ---
 
 ## 🛠 Tech Stack
